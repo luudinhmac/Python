@@ -1,0 +1,13 @@
+Quy ước: ứng với mỗi số tự nhiên x(0<x<10^6) ta có số tự nhiên f(x) = tổng bình phương các chữ số của x
+Chẳng hạn x=12 thì f(x) = 1^2 +2^2 =5
+từ x ta xây dựng dãy Xn theo quy ước như sau:
+X1=x, X2 =f(X1), ... Xi = f(Xi) với 1<=i<=n <10^2
+viết chương trình in ra dãy (Xn)
+Dữ liệu đầu vào: DAYXN.INP
+- dòng đầu ghi số tự nhiên x và n, cách nhau 1 khoảng trắng.
+KQ ra file DAYXN.OUT
+- Dòng đầu tiên ghi n phần tử đầu tiên của dãy, các số cách nhau 1 khoảng trắng
+
+ex
+in      |    out
+12 4	|12 5 25 29

@@ -1,0 +1,7 @@
+Một chú Kangaroo muốn đi thăm 1 người bạn trên cùng tuyến đường cách đó 1 khoảng n đơn vị(dm).
+Kangaroo chỉ có 2 cách di chuyển, 1 là nháy ngắn a(đơn vị dm), 2 là nhảy dài b(dm). Hỏi chú Kangaroo cần nhảu ít nhất bao 
+nhiêu bước để đến được nhà người bạn( nhảy vừa đủ, không nhảy quá nhà bạn)
+- Dữ liệu đầu vào từ file KANGAROO.INP
+gồ 3 số nguyên dương n,a,b. cách nhau 1 khoảng trắng. (1<= n <= 10^9. 1<=a<b<20)
+- Kết quả ra file KANGAROO.OUT
+ghi tổng số bước nhảy ít nhất của chú Kangaroo

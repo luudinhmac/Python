@@ -1,0 +1,4 @@
+Giấu file vào file ảnh
+b1: Nén file -> .rar
+b2: cmd: copy /b anh.jpg + file.rar anh2.jpg
+mở bằng winrar

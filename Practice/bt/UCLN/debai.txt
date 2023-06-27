@@ -1,0 +1,6 @@
+UCLN
+Cho 2 số tự nhiên m,n(1<n, m<10^9), viết ct tìm ucln của 2 số m và n
+Dữ liệu đầu vào file UCLN.INP
+dòng đầu ghi 2 số M,N cách nhau 1 khoảng trắng
+Dữ liệu ra: UCLN.OUT
+- DÒng đầu ghi ucLN tìm được

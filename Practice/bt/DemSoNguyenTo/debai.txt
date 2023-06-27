@@ -1,0 +1,7 @@
+Cho dãy số nguyên gồm N phần tử Ai(0<N<10^3, 0< Ai <10^6)
+Viết ct đếm xem trong dãy số đã cho có bao nhiêu phần tử là số nguyên tố?
+Dữ liệu vào file NGUYENTO.INP
+Dòng đầu ghi 2 số N
+- Dòng thứ 2 ghi N số nguyên, các số cách nhau 1 khoảng trắng
+KQ ra file: NGUYENTO.OUT
+- Dòng đầu tiên ghi kq đếm được

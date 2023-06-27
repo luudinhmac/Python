@@ -1,0 +1,4 @@
+# "r", for reading
+# "w", for writing
+# "a", for appending
+# "r+", for both reading and writingHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHello
